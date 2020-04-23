@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Transformations": {
+      "commandName": "Project",
+      "commandLineArgs": "--editor-name Martin --editor-surname Černý -i  \"C:\\Users\\Martin\\Desktop\\Bouda\\Bouda.ifc\" -o \"C:\\Users\\Martin\\Desktop\\Bouda\\Bouda.fixed.ifc\""
+    }
+  }
+}
